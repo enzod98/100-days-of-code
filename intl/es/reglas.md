@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2016. [ponga su nombre aquí]
+04 de enero de 2022. [Enzo Duré]
 
 ## Reglas adicionales
 
