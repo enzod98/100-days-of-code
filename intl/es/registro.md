@@ -19,3 +19,8 @@
 
 **Progreso de hoy**: Pausé un poco el desarrollo de mi web para tener mi primer acercamiento a FreeCodeCamp, empecé la certificación de algoritmos y estructura de datos en JavaScript. La primera sección es muy básica pero nunca está de más un repaso a las bases de mi queridísimo JavaScript, al terminar esto se viene lo purete.
 **Reflexiones:**: Resolví todos los ejercicios casi sin pensar, las bases de JS las tengo muy bien asentadas.
+
+### Día 4: 07 de enero de 2022
+
+**Progreso de hoy**: Seguí con el curso de FreeCodeCamp, terminé la sección que dejé pendiente ayer sobre las bases de JavaScript y completé la sección de ES6.
+**Reflexiones:**: Aunque di más de lo básico, aprendí cosas interesantes como la recursividad, el tratamiento de arrays, objetos y clases.
