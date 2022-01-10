@@ -24,3 +24,9 @@
 
 **Progreso de hoy**: Seguí con el curso de FreeCodeCamp, terminé la sección que dejé pendiente ayer sobre las bases de JavaScript y completé la sección de ES6.
 **Reflexiones:**: Aunque di más de lo básico, aprendí cosas interesantes como la recursividad, el tratamiento de arrays, objetos y clases.
+
+
+### Día 5: 09 de enero de 2022
+
+**Progreso de hoy**: Me salté un día, hoy retomé el reto continuando con el desarrollo de mi página personal. Trabajé en conectar el formulario de contacto con el backend, y hacer que este envíe mails a mi correo particular.
+**Reflexiones:**: Pierdo mucho tiempo cometiendo errores tontos a causa de mi desatención (errores de sintaxis, interpretar mal la documentación, etc.). Debo trabajar en ello
