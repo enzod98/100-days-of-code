@@ -30,3 +30,8 @@
 
 **Progreso de hoy**: Me salté un día, hoy retomé el reto continuando con el desarrollo de mi página personal. Trabajé en conectar el formulario de contacto con el backend, y hacer que este envíe mails a mi correo particular.
 **Reflexiones:**: Pierdo mucho tiempo cometiendo errores tontos a causa de mi desatención (errores de sintaxis, interpretar mal la documentación, etc.). Debo trabajar en ello
+
+### Día 6: 10 de enero de 2022
+
+**Progreso de hoy**: Continué con la sección about de mi web personal. Ya tengo prácticamente listos los estilos a usar en esta sección
+**Reflexiones:**: Aún me cuesta mucho escribir CSS con sus respectivas librerías, no estaría mal darme un repaso de Bootstrap o algún otro framework similar
