@@ -35,3 +35,8 @@
 
 **Progreso de hoy**: Continué con la sección about de mi web personal. Ya tengo prácticamente listos los estilos a usar en esta sección
 **Reflexiones:**: Aún me cuesta mucho escribir CSS con sus respectivas librerías, no estaría mal darme un repaso de Bootstrap o algún otro framework similar
+
+### Día 7: 11 de enero de 2022
+
+**Progreso de hoy**: Continué con la sección about de mi web personal. Tuve contratiempos con la forma en que se visualizaba el texto con imágenes en tamaños grandes, pero aparentemente está solucionado
+**Reflexiones:**: Nada que agregar, sigue de tarea pendiente hacer hincapié en los frameworks css
