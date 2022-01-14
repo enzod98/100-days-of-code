@@ -40,3 +40,8 @@
 
 **Progreso de hoy**: Continué con la sección about de mi web personal. Tuve contratiempos con la forma en que se visualizaba el texto con imágenes en tamaños grandes, pero aparentemente está solucionado
 **Reflexiones:**: Nada que agregar, sigue de tarea pendiente hacer hincapié en los frameworks css
+
+### Día 8: 13 de enero de 2022
+
+**Progreso de hoy**: Añadí un timeline a la sección de ocupaciones, mostrando mi histórico de trabajos oficiales dentro de empresas
+**Reflexiones:**: -
