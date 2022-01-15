@@ -45,3 +45,8 @@
 
 **Progreso de hoy**: Añadí un timeline a la sección de ocupaciones, mostrando mi histórico de trabajos oficiales dentro de empresas
 **Reflexiones:**: -
+
+### Día 9: 14 de enero de 2022
+
+**Progreso de hoy**: Monté una instancia en AWS para servir mi web, también terminé la sección de conocimientos y está lista para ser publicada.
+**Reflexiones:**: Casi a diario administro la instancia de AWS que tenemos en mi empresa, sin embargo hoy aprendí muchísimo acerca del lanzamiento instancias en EC2 desde cero.
