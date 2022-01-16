@@ -50,3 +50,9 @@
 
 **Progreso de hoy**: Monté una instancia en AWS para servir mi web, también terminé la sección de conocimientos y está lista para ser publicada.
 **Reflexiones:**: Casi a diario administro la instancia de AWS que tenemos en mi empresa, sin embargo hoy aprendí muchísimo acerca del lanzamiento instancias en EC2 desde cero.
+
+
+### Día 10: 15 de enero de 2022
+
+**Progreso de hoy**: El servidor de AWS está preparado para hacer el despliegue de mi app, sin embargo tengo problemas para compilar la versión de producción
+**Reflexiones:**: A veces es bueno un descanso cuando te trabas durante horas por un problema como este, tengo la sospecha de que el error está del lado de Node
