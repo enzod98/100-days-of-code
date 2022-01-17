@@ -56,3 +56,8 @@
 
 **Progreso de hoy**: El servidor de AWS está preparado para hacer el despliegue de mi app, sin embargo tengo problemas para compilar la versión de producción
 **Reflexiones:**: A veces es bueno un descanso cuando te trabas durante horas por un problema como este, tengo la sospecha de que el error está del lado de Node
+
+### Día 11: 16 de enero de 2022
+
+**Progreso de hoy**: La versión de producción está lista, también tengo lista mi instancia a la cual instalé un VirtualMin para hacer cosas toscas a futuro, sólo falta publicar mi web al mundo.
+**Reflexiones:**: Debo prestar más atención a los Warnings que me salgan en consola, por omitir ciertos Warnings que tenía en desarrollo por restarle importancia, ya que de igual manera me funcionaba la app en este ambiente, no conseguía hacer funcionar mi app en el ambiente de producción y tardé bastante tiempo en relacionar este inconveniente con el warning.
