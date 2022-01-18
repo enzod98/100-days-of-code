@@ -61,3 +61,8 @@
 
 **Progreso de hoy**: La versión de producción está lista, también tengo lista mi instancia a la cual instalé un VirtualMin para hacer cosas toscas a futuro, sólo falta publicar mi web al mundo.
 **Reflexiones:**: Debo prestar más atención a los Warnings que me salgan en consola, por omitir ciertos Warnings que tenía en desarrollo por restarle importancia, ya que de igual manera me funcionaba la app en este ambiente, no conseguía hacer funcionar mi app en el ambiente de producción y tardé bastante tiempo en relacionar este inconveniente con el warning.
+
+### Día 12: 17 de enero de 2022
+
+**Progreso de hoy**: Después de varias trabas con el virtualmin y mi instancia en AWS, por fin pude completar al 100% la instalacióny publicación tanto de mi web personal como de la página de virtualmin, dejé todo en orden y como debe estar para ir agregando nuevas instancias y Virtual Hosts de cara al futuro :)
+**Reflexiones:**: Montar un servidor virtual dentrode un ubuntu no es tan fácil como me imaginaba en un principio, sobre todo si no tienes una previa capacitación muchas cosas se resumen en prueba y error, sin embargo, estoy muy orgulloso de haber logrado finalizar con esta labor
