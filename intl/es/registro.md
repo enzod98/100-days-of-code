@@ -66,3 +66,10 @@
 
 **Progreso de hoy**: Después de varias trabas con el virtualmin y mi instancia en AWS, por fin pude completar al 100% la instalacióny publicación tanto de mi web personal como de la página de virtualmin, dejé todo en orden y como debe estar para ir agregando nuevas instancias y Virtual Hosts de cara al futuro :)
 **Reflexiones:**: Montar un servidor virtual dentrode un ubuntu no es tan fácil como me imaginaba en un principio, sobre todo si no tienes una previa capacitación muchas cosas se resumen en prueba y error, sin embargo, estoy muy orgulloso de haber logrado finalizar con esta labor
+
+
+### Día 13: 18 de enero de 2022
+
+**Progreso de hoy**: Progreso ninguno, estuve horas tratando de montar mi servidor de mail con postfix y virtualmin. Puedo recibir y enviar correos de forma interna pero no así con correos externos. Seguiré trabajando en ello
+**Reflexiones:**: Se nota que no me dedico a los servidores.
+
