@@ -73,3 +73,9 @@
 **Progreso de hoy**: Progreso ninguno, estuve horas tratando de montar mi servidor de mail con postfix y virtualmin. Puedo recibir y enviar correos de forma interna pero no así con correos externos. Seguiré trabajando en ello
 **Reflexiones:**: Se nota que no me dedico a los servidores.
 
+### Día 14-15: 19-20 de enero de 2022
+
+**Progreso de hoy**: Servidor postfix para mi dominio montado y funcionando
+**Reflexiones:**: Se nota que no me dedico a los servidores. Espero desde mañana centrarme puramente en código nuevamente, dos días invertidos en algo que debería ser tan simple
+
+
